@@ -31,11 +31,11 @@ const Navbar = () => {
       </ul>
       <div className="logo" ref={logoRef}>
         <Link to="/">
-          <h2>Immemorial</h2>
+          <h2>Damosco Model Management</h2>
         </Link>
       </div>
       <div className="blog-link" ref={blogRef}>
-        <Link to="/blog">Blog</Link>
+        <Link to="/blog">Get In Touch</Link>
       </div>
     </nav>
   );

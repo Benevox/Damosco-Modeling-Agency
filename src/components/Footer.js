@@ -9,8 +9,8 @@ const Footer = () => {
 
   return (
     <section className="footer wrapper " ref={footerRef}>
-      <h1 ref={footerHeadlineRef}>bonjour</h1>
-      <p>© {new Date().getFullYear()} Immemorial. Crafted by yours truly</p>
+      <h1 ref={footerHeadlineRef}>Bienvenue</h1>
+      <p>© {new Date().getFullYear()} Damosco Model Management. Crafted by yours truly</p>
     </section>
   );
 };

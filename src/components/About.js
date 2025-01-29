@@ -1,19 +1,15 @@
 const About = () => {
   return (
     <section className="about wrapper">
-      {" "}
-      <h2 className="section-title">About</h2>
+      <h2 className="section-title">About Us</h2>
       <p>
-        Explore the lost treasures and shining stars of the 1990s! Find your
-        favorite cartoons, TV shows, music albums, & more with easy filtering
-        functionality. With Immemorial, stay up-to-date with all your 90s
-        favorites while turning back time.
+        We are a leading model management agency specializing in OnlyFans content creation and strategy. We empower talented creators to build successful careers on the platform by providing comprehensive support and guidance.  We connect models with the resources and expertise they need to maximize their potential and achieve their goals.
+      </p><br/>
+      <p>
+        Our mission is to elevate the OnlyFans experience for both creators and their audience. We are committed to fostering a safe, inclusive, and empowering environment where models can thrive. We believe in transparency, professionalism, and ethical practices in all aspects of our business.
       </p>
       <p>
-        What's the only era that never seems to end? The 90s! Journey through
-        appreciating items from 90s TV, music, and art. See if you remember old
-        toys, cartoons, or prints of such. Indulge in some nostalgia before our
-        world falls back into the dark ages.
+        Whether you're an established OnlyFans model looking to optimize your performance or a newcomer eager to start your journey, we offer tailored solutions to meet your specific needs.  We provide support in areas such as content creation, marketing, audience engagement, and platform management. Join us and unlock your full potential on OnlyFans.
       </p>
     </section>
   );
